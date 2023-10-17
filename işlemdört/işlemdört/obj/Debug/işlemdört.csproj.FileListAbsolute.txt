@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\bin\Debug\işlemdört.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\bin\Debug\işlemdört.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\bin\Debug\işlemdört.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\işlemdört\işlemdört\obj\Debug\işlemdört.pdb
